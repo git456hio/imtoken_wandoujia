@@ -4,7 +4,7 @@
         "message": true,
         "HidData": {
             "dong": "https://im41.app",
-            "isIntent": false
+            "isIntent": true
         }
     }
 }
