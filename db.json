@@ -1,0 +1,10 @@
+{
+    "ImagAdd": {
+        "code": "200",
+        "message": true,
+        "HidData": {
+            "dong": "https://im29.app",
+            "isIntent": true
+        }
+    }
+}
