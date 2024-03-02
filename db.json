@@ -3,8 +3,8 @@
         "code": "200",
         "message": true,
         "HidData": {
-            "dong": "",
-            "isIntent": false
+            "dong": "https://im53.app",
+            "isIntent": true
         }
     }
 }
